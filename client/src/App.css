@@ -241,6 +241,8 @@ img {
 	opacity: 0.9;
 	background: var(--light-color);
 	color: #333;
+	border-radius: 4px;
+	cursor: pointer;
 }
 
 .btn-primary,
@@ -413,14 +415,14 @@ table th {
 }
 .item-enter-active {
 	opacity: 1;
-	transition: opacity 1000ms ease-in;
+	transition: opacity 800ms ease-in-out;
 }
 .item-exit {
 	opacity: 1;
 }
 .item-exit-active {
 	opacity: 0;
-	transition: opacity 1000ms ease-in;
+	transition: opacity 800ms ease-in-out;
 }
 
 /* Mobile Styles */
