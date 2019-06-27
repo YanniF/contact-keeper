@@ -1,7 +1,6 @@
 # Contact Keeper
 
-Full stack MERN contact manager with React hooks, context & JWT authentication.  
-Check it out [here](https://yanni-contact-keeper.herokuapp.com)
+Full stack MERN contact manager with React hooks, context & JWT authentication. 
 
 ## Usage
 
