@@ -1,6 +1,8 @@
 # Contact Keeper
 
-Full stack MERN contact manager with React hooks, context & JWT authentication. 
+Full stack MERN contact manager with React hooks, context & JWT authentication.  
+Part of the course [Modern React Front to Back](https://www.udemy.com/modern-react-front-to-back)
+
 
 ## Usage
 
